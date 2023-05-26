@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kub_Devops:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kub_Devops_jar</output-path>
+    <root id="archive" name="kub_Devops.jar">
+      <element id="module-output" name="kub_Devops" />
+    </root>
+  </artifact>
+</component>
